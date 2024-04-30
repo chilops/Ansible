@@ -1,7 +1,6 @@
-# PLAY level variables
-- name: variables from PLAY level
-  hosts: localhost
-  vars:
-    Course: "DevOps"
-    Trainer: "Sivakumar"
-    Duration: "110HRS"
+Course: "DevOps with AWS"
+Trainer: "Sivakumar"
+Duration: "110HRS"
+
+# PERSON: "Siva from FILE"
+# WISHES: "Morning from FILE"
